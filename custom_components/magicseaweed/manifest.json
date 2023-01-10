@@ -1,0 +1,10 @@
+{
+  "domain": "magicseaweed",
+  "name": "Magicseaweed",
+  "documentation": "https://github.com/jcconnell/magicseaweed",
+  "issue_tracker": "https://github.com/jcconnell/magicseaweed/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@jcconnell"],
+  "requirements": []
+}

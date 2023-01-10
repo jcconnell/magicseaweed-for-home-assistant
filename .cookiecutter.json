@@ -1,0 +1,11 @@
+{
+  "_output_dir": "/Users/jcconnell/Code/python/magicseaweed-custom-component",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "Magicseaweed",
+  "domain_name": "magicseaweed",
+  "friendly_name": "Magicseaweed",
+  "github_user": "jcconnell",
+  "project_name": "magicseaweed",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}
