@@ -1,3 +1,16 @@
+# Magicseaweed
+
+> [!IMPORTANT]
+> **This integration no longer works.** Magicseaweed shut down in 2023 and its
+> API went with it. This repository was only ever the starting template and is
+> no longer maintained.
+>
+> **Use [Surf Forecast for Home Assistant](https://github.com/jcconnell/ha-surf-forecast)
+> instead.** It builds a surf forecast for a specific break from
+> [Stormglass](https://stormglass.io) data: wave height, swell period, tide,
+> wind relative to the shore, and a 0–10 rating. It runs on the free
+> Stormglass plan and installs through HACS.
+
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
 [![License][license-shield]][license]
